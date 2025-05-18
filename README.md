@@ -8,11 +8,17 @@
 ---
 
 ### Setup Instructions
+### Setup Instructions
 
-1. **Navigate to the frontend directory**
+1. **Clone the repository**
+
+   ```bash
+   git clone --branch master https://github.com/khloudMohamed/url-shortener-FrontEnd.git
+   ```
+2. **Navigate to the frontend directory**
 
 ```bash
-cd frontend
+cd url-shortener-FrontEnd
 ```
 2. **Install dependencies**
 ```bash
