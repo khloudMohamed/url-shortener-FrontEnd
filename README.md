@@ -35,5 +35,4 @@ npm start
 ```bash
 yarn start
 ```
-
 5. **Visit : []( http://localhost:3000)
